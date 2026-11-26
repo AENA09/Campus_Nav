@@ -1,0 +1,6 @@
+{
+  "name": "Medi-Caps Campus Nav | Indore",
+  "description": "Interactive campus navigation system for Medi-Caps University, Indore with Dijkstra shortest-path routing, wheelchair-accessible pathways, turn-by-turn directions, and building directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
